@@ -1,6 +1,6 @@
 # Portal-client (GUI)
 
-To reozytorium zawiera kod klienta (GUI) ktory bezposrednio łączy się z portal-backend z wykorzystaniem technologi 
+To repozytorium zawiera kod klienta (GUI) ktory bezposrednio łączy się z portal-backend z wykorzystaniem technologi 
 API REST.
 
 Proponowane rozwiązania to:
